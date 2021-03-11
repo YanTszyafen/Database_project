@@ -1,2 +1,2 @@
 # Database_project
-Тема: Data Mining на основе модели CRIPS-DM
+Тема: Data Mining на основе модели CRISP-DM
